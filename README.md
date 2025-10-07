@@ -30,7 +30,6 @@ It integrates multiple measurable indicators into a **composite Health Score (0â
 - Adopted **clustering and anomaly detection** to uncover latent structure without labeled outcomes.  
 - Produced **biologically plausible risk distributions** while reducing overfitting.  
 
-> Unsupervised approaches are particularly suitable for laboratory animal health data, which often contains rare events or sparse indicators.  
 > **Note:** Unsupervised ML projects are ideally applied to **real-world data**. Here, synthetic data was carefully designed to mimic real populations, including **missing values, variability, and anomalies**, to ensure the pipeline is robust and biologically relevant.
 
 ---
