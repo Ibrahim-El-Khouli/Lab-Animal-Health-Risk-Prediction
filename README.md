@@ -100,7 +100,7 @@ Building on growth prediction and environmental comfort assessment, this pipelin
 | Species Flexibility            | Mice (template)        | Rats, adaptable to other species with retraining |
 | Complexity                     | Moderate               | Advanced: dashboards, temporal tracking, dynamic strain/sex handling |
 
-> This pipeline represents a **significant advancement in laboratory animal medicine**, integrating sophisticated machine learning methods with actionable veterinary insights. It provides veterinarians with tools for objective, reproducible, and interpretable health assessment in research colonies.
+> This pipeline represents a **step forward in laboratory animal medicine**, integrating machine learning approaches with actionable veterinary insights. It offers tools for **objective, reproducible, and interpretable health assessment**.
 
 ---
 
