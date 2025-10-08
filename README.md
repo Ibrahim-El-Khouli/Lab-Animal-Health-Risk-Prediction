@@ -80,7 +80,7 @@ It integrates multiple measurable indicators into a **composite Health Score (0â
 ---
 
 ## Previous Work & Continuity
-- Builds on the [**Lab Animal Growth Prediction**](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Growth-Prediction) framework (murine growth) and [**LECI - Lab Environmental Comfort Index**](https://github.com/Ibrahim-El-Khouli/LECI-Lab-Environmental-Comfort-Index.git).  
+- Builds on the [**Lab Animal Growth Prediction**](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Growth-Prediction) framework (murine growth) and [**LECI - Lab Environmental Comfort Index**](https://github.com/Ibrahim-El-Khouli/LECI-Lab-Environmental-Comfort-Index.git) (zebrafish).  
 - Introduces:  
   - Realistic synthetic datasets  
   - Expanded modeling toolkit: Linear, Ridge, Random Forest, Gradient Boosted Trees  
