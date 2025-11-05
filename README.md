@@ -5,12 +5,12 @@
 ### 1. Project Objectives
 
 #### Research Problem
-The goal of this project is to develop a **reproducible, modular pipeline** for quantifying laboratory animal health by integrating multiple measurable indicators into a composite **Health Score (0–100)**. Each animal is classified into **Low**, **Medium**, or **High** health-risk categories.
+The goal of this project is to develop a **reproducible, modular pipeline** for quantifying laboratory animal health by integrating multiple measurable indicators into a composite **Health Score (0–100)**. Each animal is classified into **Low**, **Medium**, or **High** health-risk categories. The project uses [synthetic data](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Health-Risk-Prediction/blob/main/data/data_cleaned_realistic.csv) and a fully documented [notebook](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Health-Risk-Prediction/blob/main/lab-animal-health-risk-prediction.ipynb) for model development and evaluation.
 
-**Design Principle — Species-Agnostic Adaptability**
+**Design Principle — Future Species Adaptability**
 
-- Retrainable across multiple species (rats, mice, rabbits, guinea pigs) with minimal modification.  
-- Enables broad translational applicability in biomedical and preclinical research.
+- Currently trained on rats, but the pipeline can be retrained for other species (mice, rabbits, guinea pigs) with species-specific datasets.  
+- Enables potential translational applicability in biomedical and preclinical research once retrained.
 
 #### Key Benefits
 
@@ -568,7 +568,7 @@ Gratitude is extended to the broader community of **veterinary scientists and bi
 
 ---
 
-## **GitHub Repositories for Previous Work**
+## **GitHub Repositories for Other Work**
 
 - [PostOpPainGuard™](https://github.com/Ibrahim-El-Khouli/PostOpPainGuard.git)
 - [LECI - Lab Environmental Comfort Index](https://github.com/Ibrahim-El-Khouli/LECI-Lab-Environmental-Comfort-Index.git)  
