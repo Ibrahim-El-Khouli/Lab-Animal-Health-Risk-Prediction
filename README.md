@@ -1,4 +1,4 @@
-# Lab Animal Health Risk Prediction
+<h1 align="center"><strong>Lab Animal Health Risk Prediction</strong></h1>
 
 ## Phase 1 — Project Setup
 
